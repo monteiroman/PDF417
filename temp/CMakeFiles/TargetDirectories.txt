@@ -1,0 +1,4 @@
+/home/tiago/ProgramasTiago/PDI/Test/temp/CMakeFiles/rebuild_cache.dir
+/home/tiago/ProgramasTiago/PDI/Test/temp/CMakeFiles/Test.dir
+/home/tiago/ProgramasTiago/PDI/Test/temp/CMakeFiles/edit_cache.dir
+/home/tiago/ProgramasTiago/PDI/Test/temp/CMakeFiles/headers.dir

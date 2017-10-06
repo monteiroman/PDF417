@@ -1,0 +1,4 @@
+/home/tiago/ProgramasTiago/PDI/PDF417/PDF417-build/CMakeFiles/rebuild_cache.dir
+/home/tiago/ProgramasTiago/PDI/PDF417/PDF417-build/CMakeFiles/PDF417.dir
+/home/tiago/ProgramasTiago/PDI/PDF417/PDF417-build/CMakeFiles/edit_cache.dir
+/home/tiago/ProgramasTiago/PDI/PDF417/PDF417-build/CMakeFiles/headers.dir

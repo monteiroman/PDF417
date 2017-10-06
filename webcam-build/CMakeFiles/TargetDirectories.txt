@@ -1,0 +1,4 @@
+/home/tiago/ProgramasTiago/PDI/webcam/webcam-build/CMakeFiles/rebuild_cache.dir
+/home/tiago/ProgramasTiago/PDI/webcam/webcam-build/CMakeFiles/webcam.dir
+/home/tiago/ProgramasTiago/PDI/webcam/webcam-build/CMakeFiles/edit_cache.dir
+/home/tiago/ProgramasTiago/PDI/webcam/webcam-build/CMakeFiles/headers.dir

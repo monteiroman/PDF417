@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tiago/ProgramasTiago/PDI/PDF417/src/mainPDF.cpp
+opencv2/highgui/highgui.hpp
+/home/tiago/ProgramasTiago/PDI/PDF417/src/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/tiago/ProgramasTiago/PDI/PDF417/src/opencv2/imgproc/imgproc.hpp
+stdlib.h
+-
+stdio.h
+-
+iostream
+-
+
