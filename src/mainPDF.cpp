@@ -43,7 +43,7 @@ int main(void)
     while ( (char)waitKey(10) != 27 )
     {
         capture.read( src );
-        vector<vector<Point> > squares;                    //!!!!!!!!!!????????????!!!!!!!!!!!???? No hay otra forma de vaciar el vector que volviendolo a hacer???
+        vector<vector<Point> > squares;                    /*//!!!!!!!!!!????????????!!!!!!!!!!!???? No hay otra forma de vaciar el vector que volviendolo a hacer???*/
 
         //src.convertTo(src, CV_8U, 0.00390625);
         //vector<vector<Point> > squares;
